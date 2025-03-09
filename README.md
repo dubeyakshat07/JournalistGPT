@@ -20,7 +20,7 @@ I do not hold any rights to the dataset. The dataset was provided on **Kaggle** 
 
 To use this project, follow these steps:  
 
-1. **Download the dataset:** Obtain the CSV file from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/shivamtaneja2304/inshorts-dataset-english)) (search for *Inshorts Dataset - English*).  
+1. **Download the dataset:** Obtain the CSV file from [Kaggle](https://www.kaggle.com/datasets/shivamtaneja2304/inshorts-dataset-english) (search for *Inshorts Dataset - English*).  
 2. **Convert to input format:** Open the Jupyter Notebook within the `data/` folder and use it to transform the CSV into `input.txt`.  
 3. **Prepare data:** Move `input.txt` into the `data/` directory.  
 4. **Set up the environment:**  
@@ -66,8 +66,8 @@ To use this project, follow these steps:
 More models will be added to fine-tune open-source models from **Hugging Face** for enhanced performance and improved news summarization capabilities. Stay tuned for updates!  
 
 ## Credits  
-This project is inspired by the work of **[Andrej Karpathy]([https://github.com/karpathy])**, particularly his advancements in training GPT models on character-level datasets.  
+This project is inspired by the work of **[Andrej Karpathy](https://github.com/karpathy)**, particularly his advancements in training GPT models on character-level datasets.  
 
-For any inquiries or access requests, feel free to reach out on [LinkedIn]([https://www.linkedin.com/in/akshat0007/]).  
+For any inquiries or access requests, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/akshat0007/).  
 
 ---
