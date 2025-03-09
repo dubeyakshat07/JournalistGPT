@@ -8,7 +8,7 @@ Beyond mere summarization and event connection, JournalistGPT extends its capabi
 ## Overview  
 This repository contains a GPT model trained on a news dataset from **Inshorts**, spanning from **2005 to December 2023**. The model has been fine-tuned to generate news summaries, headlines, and insights based on extensive real-world data.  
 
-Access to the trained models is available upon request. You can contact me via [LinkedIn](https://www.linkedin.com/in/dubeyakshat07).  
+Access to the trained models is available upon request. You can contact me via [LinkedIn](https://www.linkedin.com/in/akshat0007/).  
 
 ## About Inshorts  
 [Inshorts](https://www.inshorts.com) is a news aggregation platform that provides concise summaries of news articles, typically within 60 words. The dataset used in this project was sourced from **Kaggle (Inshorts Dataset - English)** and includes comprehensive news details over nearly two decades.  
@@ -66,8 +66,8 @@ To use this project, follow these steps:
 More models will be added to fine-tune open-source models from **Hugging Face** for enhanced performance and improved news summarization capabilities. Stay tuned for updates!  
 
 ## Credits  
-This project is inspired by the work of **Andrej Karpathy**, particularly his advancements in training GPT models on character-level datasets.  
+This project is inspired by the work of **[Andrej Karpathy]([https://github.com/karpathy])**, particularly his advancements in training GPT models on character-level datasets.  
 
-For any inquiries or access requests, feel free to reach out on [LinkedIn]([https://www.linkedin.com/in/akshat-dubey](https://www.linkedin.com/in/dubeyakshat07)).  
+For any inquiries or access requests, feel free to reach out on [LinkedIn]([https://www.linkedin.com/in/akshat0007/]).  
 
 ---
